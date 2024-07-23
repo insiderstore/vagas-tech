@@ -17,7 +17,7 @@ Estamos em muitos canais de Youtube através de nossos influencers, mas você po
 
 * veja as vagas disponíveis na listagem de arquivos
 * escolha e leia sobre a descrição da vaga, requisitos e diferenciais
-* caso se interesse em alguma, envia um email para vagas-tech@insiderstore.com.br e o título "Quero me candidatar para vaga XPTO" e envie seu linkedin.
+* caso se interesse em alguma, envia um email para vagas-engineering@insiderstore.com.br e o título "Quero me candidatar para vaga XPTO" e envie seu linkedin.
 * espere nosso contato com a devolutiva (isso as vezes pode demorar alguns dias, mas fazemos sempre ASAP)
 
 ## Processo de seleção
