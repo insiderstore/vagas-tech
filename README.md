@@ -1,6 +1,6 @@
-# vagas-tech-insider
+# Vagas do time de Software Engineering da Insider Store.
 
-Bem vindo ao repositório de vagas de tecnologia da Insider Store.
+Seja bem vindo. :)
 
 A Insider Store nasceu para facilitar a vida das pessoas por meio de roupas funcionais e tecnológicas. Por meio de Tecnologia Têxtil, Inovação, Sustentabilidade e Funcionalidade, hoje, além de oferecer soluções sustentáveis, ampliamos nosso portfólio com produtos para homens e mulheres, entregando conforto essencial para toda ocasião.
 
